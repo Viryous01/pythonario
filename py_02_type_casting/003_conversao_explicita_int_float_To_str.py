@@ -7,7 +7,7 @@ texto = str(num_int)
 print(texto)
 print(type(texto))
 
-num_float = 23.5
+num_float = 23.59
 #Conversão
 texto = str(num_float)
 print(texto)
