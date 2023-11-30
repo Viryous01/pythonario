@@ -31,7 +31,7 @@ class Cartao():
             else:
                 tentativas +=1
                 print("Pin inválido, tentantivas: ", tentativas)
-                if tentativas == 3:
+                if tentativas == 2:
                     print("Cartão Bloqueado")
                     return False
 
